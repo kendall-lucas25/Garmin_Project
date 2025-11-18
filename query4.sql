@@ -1,0 +1,3 @@
+SELECT
+AVG(CAST("Avg HR" AS DOUBLE PRECISION))
+from garmin_data
