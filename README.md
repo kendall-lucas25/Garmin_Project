@@ -7,3 +7,6 @@ There is overwhelming evidence to conclude that injuries are significantly more 
 
 Thoughts behind Query 3:
 As I continue my career, building more mileage as I get stronger and grow in the sport, the average length of my runs will increase. With this code, I will be able to check on my progress as I handle more volume.
+
+Thoughts behind Query 4:
+Even though individual runs will vary in the metric of heart rate, this code will allow me to check on if my heart rate is changing over time or staying consistent. This way, I know that if I'm running faster, but my heart rate stays the same, my aerobic fitness is changing in the right direction. This can also be use similarly for finding the opposite trend.
