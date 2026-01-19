@@ -10,3 +10,6 @@ As I continue my career, building more mileage as I get stronger and grow in the
 
 Thoughts behind Query 4:
 Even though individual runs will vary in the metric of heart rate, this code will allow me to check on if my heart rate is changing over time or staying consistent. This way, I know that if I'm running faster, but my heart rate stays the same, my aerobic fitness is changing in the right direction. This can also be use similarly for finding the opposite trend.
+
+Thoughts behind Query 5: 
+This allows me to see the calories burned per run. This is very important as this will tell me the MINIMUM amount of calories I will have to eat in order to sustain my current activity level. Fueling and eating enough is crucial for peak performance for endurance athletes, and this gives great information on how to have healthy and successful eating habits.
