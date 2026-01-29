@@ -16,3 +16,6 @@ This allows me to see the calories burned per run. This is very important as thi
 
 Thoughts behind Query 6: 
 This code is really insightful, because as time continues, hopefully the average pace goes down. I will also be able to monitor this to see if factors like, nutrition, volume, lifting habits, sleep duration, and other things change the speed of my runs. 
+
+Thoughts behind Query 7:
+With this code, I will be able to see if elevation plays a role in my training. When transitioning from runs when I'm at school from summer break and vice versa, I will be able to see how different terrain affects my training.
