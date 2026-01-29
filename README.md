@@ -19,3 +19,7 @@ This code is really insightful, because as time continues, hopefully the average
 
 Thoughts behind Query 7:
 With this code, I will be able to see if elevation plays a role in my training. When transitioning from runs when I'm at school from summer break and vice versa, I will be able to see how different terrain affects my training.
+
+Thoughts behind Query 8: 
+As my fitness improves, hopefully the runs brought by this code will change. If things are going as planned, these runs should change as my body acclimates to harder runs. This way, I will be able to analyze my progress.
+
