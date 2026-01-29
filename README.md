@@ -13,3 +13,6 @@ Even though individual runs will vary in the metric of heart rate, this code wil
 
 Thoughts behind Query 5: 
 This allows me to see the calories burned per run. This is very important as this will tell me the MINIMUM amount of calories I will have to eat in order to sustain my current activity level. Fueling and eating enough is crucial for peak performance for endurance athletes, and this gives great information on how to have healthy and successful eating habits.
+
+Thoughts behind Query 6: 
+This code is really insightful, because as time continues, hopefully the average pace goes down. I will also be able to monitor this to see if factors like, nutrition, volume, lifting habits, sleep duration, and other things change the speed of my runs. 
