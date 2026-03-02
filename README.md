@@ -25,3 +25,9 @@ As my fitness improves, hopefully the runs brought by this code will change. If 
 
 Thoughts behind Query 9:
 When fitness grows, so will my stride length. When multiplying these, the average distance will come out, and I will, once again, be able to track this metric over time.
+
+Cleaning code:
+Here, I changed the type of Distance into a numeric type, so the data could easily be worked with and made into a graph. Great practice with data cleaning.
+
+Analysis code: 
+This is the code in R in which I actually create the graph. This was my first ever time trying data visualization.
