@@ -117,7 +117,8 @@ The dataset was exported into R for visualization.This was my first data visuali
 - Cleaned and prepared variables for plotting
 - Generated a graphical representation of training trends
 
-![Weekly Mileage Trend](Weekly Mileage Graph.png)
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f319f4dd-00b5-459a-9e27-00584ab871dc" />
+
 
 
 
