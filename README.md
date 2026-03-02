@@ -1,25 +1,17 @@
 # 🏃 Garmin Running Data Analysis
 
-## 📌 Overview
-
-Short paragraph.
-
----
-
 ## 🛠 Tools Used
 
 - SQL
 - R
 - Garmin CSV Export
 
----
-
 ## 🔎 Query Breakdown
 
 ### Query 1: Run-to-Cross-Training Ratio
 
 **Objective:**  
-...
+Determine the proportion of running activities compared to total training volume (including swimming, cycling, walking, and elliptical sessions).
 
 **Why it matters:**  
 ...
